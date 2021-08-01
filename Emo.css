@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+body
+{
+  color: white;
+  background: purple;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed white;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.btn-warning 
+{
+  background-color:coral;
+}
+* 
+{
+  color:white;
+  border-color: chocolate;
+  font-family: 'Roboto Mono', monospace;
+  user-select: none;
+}
